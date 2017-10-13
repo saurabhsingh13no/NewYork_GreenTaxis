@@ -23,4 +23,4 @@ $ pip install -r requirements.txt
 
 
 ## Important Links
-  *[My Github HomePage](https://github.com/saurabhsingh13no) https://github.com/saurabhsingh13no
+  *My Github HomePage: https://github.com/saurabhsingh13no . For other interesting projects.
